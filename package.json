@@ -1,0 +1,19 @@
+{
+  "name": "cursor-javascript-assignment",
+  "version": "1.0.0",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusuf0786/cursor-javascript-assignment.git"
+  },
+  "author": "Yusuf Ansari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yusuf0786/cursor-javascript-assignment/issues"
+  },
+  "homepage": "https://github.com/yusuf0786/cursor-javascript-assignment#readme",
+  "description": ""
+}
